@@ -13,7 +13,7 @@ def pioneer
   hash = {
     :name => "Grace Hopper"
   }
-  return hash[:name]
+  return hash
 end
 
 def id_generator
